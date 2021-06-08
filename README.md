@@ -47,4 +47,4 @@ You can learn about how to install Apache AGE, its features and built-in functio
 ## Contribution
 
 You can improve ongoing efforts or initiate new ones by sending pull requests to [this repository](https://github.com/apache/incubator-age).  
-Also, you can learn from the code review process, how to merge pull requests, and from code style compliance to documentation, by visiting the [Apache AGE official site - Developer Guidelines](https://age.apache.org/#codereview).
+Also, you can learn, from the code review process, how to merge pull requests, and from code style compliance to documentation, by visiting the [Apache AGE official site - Developer Guidelines](https://age.apache.org/#codereview).
