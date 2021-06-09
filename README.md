@@ -34,7 +34,7 @@ Apache AGE is a PostgreSQL Extension that provides graph database functionality.
 ### AGViewer : https://github.com/bitnine-oss/AGViewer.git
 
 - This is a visualization tool.
-After AGE Extension Installation
+After AGE Extension Installation.
 You can use this tool to use the visualization features.
 - Follow the instructions on the link to run it.
 Under Connect to Database , select database type as "Apache AGE"
